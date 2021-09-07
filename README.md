@@ -1,15 +1,80 @@
-### Hi there 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/UTqoSeU.jpeg" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ranjit Sah</h1>
+<h3 align="center">I am Looking for opportunities in Data Analyst, Machine Learning, Deep Learning with a strong math background, Strong commitments with a passion for using predictive modeling, data processing, and data mining algorithms to solve challenging business problems and provide a better tomorrow by using AI.</h3>
 
 
+## 🙋‍♂️ About Me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **AQI(Air Quality index) as internship project at**
 
-- 🔭 I’m currently working on my internship  project  name AQI(Air Quality index) 
-- 🌱 I’m currently learning Data science from kaggle
-- 👯 I’m looking to collaborate on ML OOPS
-- 🤔 I’m looking for help with sokt skills
-- 💬 Ask me about Data science
-- 📫 How to reach me: sahranjit77@gmail.com
-- 😄 Pronouns: ...HE/HIM
-- ⚡ Fun fact: ...I am half finish
--->
+- 🌱 I’m currently learning **Webscrapping techniques.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://loveless1234.github.io/ranjit-portfolio/post/)**
+
+- 📫 How to reach me **sahranjit77@gmail.com**
+
+- ⚡ Fun fact **I play games and go to the GYM very often.**
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.rstudio.com/" target="_blank"> <img src="https://r-intro.tadaa-data.de/img/rstudio.png" width="48" height="48"/> </a> 
+    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/powershell.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
+    <a href="https://www.mathworks.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+
+    
+</p>
+
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
+
+<p align="center">
+    <a href="https://github.com/Loveless1234/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Loveless1234&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/Loveless1234/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Loveless1234&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Loveless1234/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loveless1234&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/Loveless1234/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Loveless1234&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/rs-berlin/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/sahranjit_riyan"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Loveless1234">
+</a>
+<a href="https://github.com/Loveless1234?tab=followers"><img src="https://img.shields.io/github/followers/Loveless1234?label=Followers&style=social" alt="GitHub Badge"></a>
