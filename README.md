@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **AQI(Air Quality index) as internship project at**
+- 🔭 I’m currently working on **AQI(Air Quality index) as internship project at INeuron Academy **
 
 - 🌱 I’m currently learning **Web scrapping techniques**
 
