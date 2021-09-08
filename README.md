@@ -70,7 +70,8 @@
 
 <a href = "https://www.linkedin.com/in/rs-berlin/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/sahranjit_riyan"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/sahranjit77/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.kaggle.com/sahranjit77"><img src="https://img.icons8.com/windows/32/000000/kaggle.png"/></a>
 
 
 </p>
