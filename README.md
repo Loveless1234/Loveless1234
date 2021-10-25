@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently doing Boot Camp Data science at WBS CODING SCHOOL BERLIN
-- 
+
 - 🌱 I’m currently learning ** Data science skill**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
