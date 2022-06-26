@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://loveless1234.github.io/ranjit-portfolio/post/)**
-
 - 📫 How to reach me **sahranjit77@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
