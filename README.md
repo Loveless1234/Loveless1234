@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/UTqoSeU.jpeg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ranjit Sah</h1>
-<h3 align="center">I am Looking for opportunities in Data Analyst, Machine Learning, Deep Learning with a strong math background, Strong commitments with a passion for using predictive modeling, data processing, and data mining algorithms to solve challenging business problems and provide a better tomorrow by using AI.</h3>
+<h3 align="center">Passionate about the techniques in statistical modeling, data analysis, visualization, data processing, and data mining with problem-solving skills, mathematical expertise, and knowledge in programming, databases, and machine learning..</h3>
 
 
 ## 🙋‍♂️ About Me
