@@ -1,4 +1,4 @@
-<a href="#"><img width="200%" height="auto" src="https://ecmiindmath.org/2019/07/16/the-new-data-science-research-center-at-university-of-milan/" height="275px"/></a>
+<a href="#"><img width="200%" height="auto" src="https://miro.medium.com/max/1400/1*rqC9uC19R9rsxMZgRaKcWg.png" height="275px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ranjit Sah</h1>
 <h3 align="center">Passionate about the techniques in statistical modeling, data analysis, visualization, data processing, and data mining with problem-solving skills, mathematical expertise, and knowledge in programming, databases, and machine learning..</h3>
