@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://miro.medium.com/max/1400/1*rqC9uC19R9rsxMZgRaKcWg.png" height="175px"/></a>
+<a href="#"><img width="300%" height="auto" src="https://miro.medium.com/max/1400/1*rqC9uC19R9rsxMZgRaKcWg.png" height="375px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ranjit Sah</h1>
 <h3 align="center">Passionate about the techniques in statistical modeling, data analysis, visualization, data processing, and data mining with problem-solving skills, mathematical expertise, and knowledge in programming, databases, and machine learning..</h3>
