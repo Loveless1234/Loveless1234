@@ -5,8 +5,9 @@
 
 
 ## 🙋‍♂️ About Me
+- 🔭 I’m currently completed Data Analysis industrial Training at Brainnest
 
-- 🔭 I’m currently completed Boot Camp Data science at WBS CODING SCHOOL BERLIN
+- 🔭 I’m completed Boot Camp Data science at WBS CODING SCHOOL BERLIN
 
 - 🌱 I’m currently learning ** Data science skill**
 
@@ -14,7 +15,6 @@
 
 - 📫 How to reach me **sahranjit77@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
