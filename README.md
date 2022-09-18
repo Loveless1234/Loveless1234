@@ -5,7 +5,9 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently completed Data Analysis industrial Training at Brainnest
+- 🔭 I’m currently working as Data Analysis  at ProConSolutions GmbH
+
+- 🔭 I’m completed Data Analysis industrial Training at Brainnest
 
 - 🔭 I’m completed Boot Camp Data science at WBS CODING SCHOOL BERLIN
 
