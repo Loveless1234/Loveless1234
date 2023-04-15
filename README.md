@@ -1,11 +1,13 @@
 <a href="#"><img width="300%" height="auto" src="https://miro.medium.com/max/1400/1*rqC9uC19R9rsxMZgRaKcWg.png" height="375px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ranjit Sah</h1>
-<h3 align="center">Passionate about the techniques in statistical modeling, data analysis, visualization, data processing, and data mining with problem-solving skills, mathematical expertise, and knowledge in programming, databases, and machine learning..</h3>
+<h3 align="center">Passionate about techniques in statistical modeling, data analysis, visualization, data processing, and data mining with 
+problem-solving skills, mathematical expertise, and knowledge in programming, databases,and machine learning. Interested in all new development. 
+With initial work experience as Data Analyst and expertise in MySQL, Python, Excel, Tableau, Power BI, and statistics, I would like to deepen and develop my skills here.</h3>
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working as Data Analysis  at ProConSolutions GmbH
+- 🔭 I worked as a Data Analyst at ProConSolutions GmbH
 
 - 🔭 I’m completed Data Analysis industrial Training at Brainnest
 
